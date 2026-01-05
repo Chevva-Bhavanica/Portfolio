@@ -69,6 +69,20 @@ section h2 {
   border-radius: 20px;
   font-size: 0.9rem;
 }
+/* TOOLS */
+.tools-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.tools-container span {
+  background: #1f2937;
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+}
 
 /* PROJECTS */
 .project-card {
